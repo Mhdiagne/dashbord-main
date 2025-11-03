@@ -2,7 +2,7 @@
 
 Un dashboard moderne et responsive reproduisant fidèlement l'interface de l'image de référence, construit avec Next.js, React et Tailwind CSS.
 
-## 🚀 Fonctionnalités
+Fonctionnalités
 
 - **Sidebar fixe** avec navigation complète
 - **Barre de navigation supérieure** avec recherche et actions utilisateur
@@ -12,7 +12,7 @@ Un dashboard moderne et responsive reproduisant fidèlement l'interface de l'ima
 - **Design responsive** optimisé pour tous les écrans
 - **Interface moderne** avec couleurs teal/mint green
 
-## 📦 Installation
+Installation
 
 ```bash
 # Installer les dépendances
@@ -24,7 +24,7 @@ npm run dev
 
 Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
 
-## 🛠️ Technologies utilisées
+Technologies utilisées
 
 - **Next.js 14** - Framework React
 - **React 18** - Bibliothèque UI
@@ -32,7 +32,7 @@ Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
 - **Tailwind CSS** - Framework CSS utility-first
 - **PostCSS** - Traitement CSS
 
-## 📁 Structure du projet
+Structure du projet
 
 ```
 dashboard/
@@ -55,7 +55,7 @@ dashboard/
 └── README.md
 ```
 
-## 🎨 Design
+Design
 
 Le design suit fidèlement l'interface de référence avec :
 - Fond gris clair (#f4f7fe)
@@ -64,18 +64,16 @@ Le design suit fidèlement l'interface de référence avec :
 - Typographie claire et moderne
 - Bordures arrondies sur tous les éléments
 
-## 📝 Scripts disponibles
+Scripts disponibles
 
 - `npm run dev` - Lance le serveur de développement
 - `npm run build` - Construit l'application pour la production
 - `npm run start` - Lance le serveur de production
 - `npm run lint` - Vérifie le code avec ESLint
 
-## 🤝 Contribution
+Contribution
 
 Ce projet a été créé pour reproduire fidèlement l'interface de l'image de référence. Tous les détails visuels ont été attentivement reproduits.
 
-## 📄 Licence
 
-Ce projet est fourni tel quel à des fins éducatives.
 
